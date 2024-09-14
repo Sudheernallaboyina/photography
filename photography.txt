@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photograph Display</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="gallery">
+        <div class="photo">
+            <img src="photo1.jpg" alt="Photo 1">
+            <p>Caption for Photo 1</p>
+        </div>
+        <div class="photo">
+            <img src="photo2.jpg" alt="Photo 2">
+            <p>Caption for Photo 2</p>
+        </div>
+        <div class="photo">
+            <img src="photo3.jpg" alt="Photo 3">
+            <p>Caption for Photo 3</p>
+        </div>
+    </div>
+</body>
+</html>
+
